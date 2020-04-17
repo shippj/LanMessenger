@@ -10,3 +10,5 @@ A simple messenger that lets you collaborate over a LAN.  Internet not required.
 - Uses UDP broadcast packets
 - Very easy to use interface
 - To autorun, place a shortcut in the startup group of your start menu
+
+<img src="https://github.com/shippj/LanMessenger/blob/master/ss1.png" >
